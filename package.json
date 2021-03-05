@@ -23,6 +23,6 @@
   "homepage": "https://github.com/DHTMLX/optimus#readme",
   "devDependencies": {
     "tslint": "^5.1.0",
-    "typescript": "^2.2.2"
+    "typescript": "^2.9.2"
   }
 }
